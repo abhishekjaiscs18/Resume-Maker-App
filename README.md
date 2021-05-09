@@ -1,5 +1,5 @@
 # Resume-Maker-App
-This repository contains our work on the Resume maker application using ReactJs, NodeJs and MaterialUI 
+### This repository contains our work on the Resume maker application using ReactJs, NodeJs and MaterialUI 
 
 # Quick Start
 ## Clone the repository and do following:
@@ -19,4 +19,4 @@ npm run server
 ### Run the React client only - 
 npm run client
 
-# Server runs on http://localhost:4000 and client on http://localhost:3000
+Server runs on http://localhost:4000 and client on http://localhost:3000
