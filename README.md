@@ -5,24 +5,28 @@
 ![node](https://user-images.githubusercontent.com/53760244/117580326-17ffc600-b115-11eb-9e59-67cc7a51d485.JPG)
 ![material](https://user-images.githubusercontent.com/53760244/117580324-16360280-b115-11eb-9990-ef5c36bd4c76.JPG)
 
+1. React for Frontend and Express as Middleware.
 
+2. Material UI and React-Bootstrap for styling.
 
 # Quick Start
 ## Clone the repository and do following:
 
 ### Install dependencies for server - 
-npm install
+  npm install
 
 ### Install dependencies for client - 
-npm run client-install
+  cd client
+  
+  npm install
 
 ### Run the client & server with concurrently -
-npm run dev
+  npm run dev
 
 ### Run the Express server only - 
-npm run server
+  npm run server
 
 ### Run the React client only - 
-npm run client
+  npm run client
 
-Server runs on http://localhost:4000 and client on http://localhost:3000
+#### Server runs on http://localhost:4000 and client on http://localhost:3000
