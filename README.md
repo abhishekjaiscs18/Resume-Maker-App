@@ -24,9 +24,9 @@
   npm run dev
 
 ### Run the Express server only - 
-  npm run server
+  npm run server OR npm start
 
 ### Run the React client only - 
-  npm run client
+  npm run client Or npm start
 
 #### Server runs on http://localhost:4000 and client on http://localhost:3000
